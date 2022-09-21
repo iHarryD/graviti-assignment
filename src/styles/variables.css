@@ -1,0 +1,11 @@
+:root {
+  --ACCENT-DARK-BLUE-CLR: #1b31a8;
+  --ACCENT-LIGHT-BLUE-CLR: #0079ff;
+  --GREY-TEXT-CLR: #4d6475;
+  --PRIMARY-BACKGROUND-CLR: #f4f8fa;
+  --PRIMARY-TEXT-CLR: #000;
+
+  --BODY-PADDING-X: clamp(1.5rem, 1.2rem + 4vw, 5rem);
+  --BODY-PADDING-Y: 1.5rem;
+  --NAVBAR-HEIGHT: 50px;
+}
