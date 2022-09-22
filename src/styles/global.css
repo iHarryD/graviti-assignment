@@ -10,7 +10,8 @@ body {
   background: var(--PRIMARY-BACKGROUND-CLR);
   color: var(--PRIMARY-TEXT-CLR);
   font-family: "Work Sans", sans-serif;
-  padding: var(--NAVBAR-HEIGHT) var(--BODY-PADDING-X);
+  padding: calc(var(--LOGO-HEIGHT) + calc(var(--NAVBAR-PADDING-Y) * 2))
+    var(--BODY-PADDING-X);
 }
 
 a,

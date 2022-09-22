@@ -5,7 +5,8 @@
   --PRIMARY-BACKGROUND-CLR: #f4f8fa;
   --PRIMARY-TEXT-CLR: #000;
 
-  --BODY-PADDING-X: clamp(1.5rem, 1.2rem + 4vw, 5rem);
+  --BODY-PADDING-X: clamp(1rem, 1rem + 2vw, 4rem);
   --BODY-PADDING-Y: 1.5rem;
-  --NAVBAR-HEIGHT: 50px;
+  --LOGO-HEIGHT: 50px;
+  --NAVBAR-PADDING-Y: 10px;
 }

@@ -1,0 +1,14 @@
+.header {
+  align-items: center;
+  background: #fff;
+  display: flex;
+  padding: var(--NAVBAR-PADDING-Y) var(--BODY-PADDING-X);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.logo {
+  height: var(--LOGO-HEIGHT);
+}
