@@ -1,0 +1,11 @@
+.location-form {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.inputs-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
